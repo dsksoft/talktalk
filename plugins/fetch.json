@@ -1,0 +1,74 @@
+{
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device@2.0.2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-ionic-keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-ionic-keyboard@2.0.5"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-ionic-webview": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-ionic-webview@1.1.19"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-splashscreen@5.0.2"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1.3.3"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-tts": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-tts"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "phonegap-plugin-speech-recognition": {
+        "source": {
+            "type": "registry",
+            "id": "https://github.com/macdonst/SpeechRecognitionPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat@^1.0.0"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-sms-plugin": {
+        "source": {
+            "type": "registry",
+            "id": "https://github.com/cordova-sms/cordova-sms-plugin.git"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

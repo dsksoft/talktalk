@@ -1,0 +1,395 @@
+
+
+body{
+   
+    background-color: #fff;
+}
+
+
+img.buttonSmall{
+    width :80px;
+    height:60px;
+    border: 0px;
+}
+
+input.small{ 
+    background-color:#153145; 
+    font-size: 15px;
+    color:#4AB1F9;   
+    height: 40px;
+    width: 150px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+input.smallForm{ 
+    background-color:#153145; 
+    font-size: 25px;
+    color:#000;   
+    height: 30px;
+    width: 150px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+input.smallFormRed{ 
+    background-color:#153145; 
+    font-size: 25px;
+    color:#000;   
+    height: 40px;
+    width: 150px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #FC0712;  
+}   
+
+
+
+input.smallname{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;   
+    height: 80px;
+    width: 470px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+input.password{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;   
+    height: 140px;
+    width: 460px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+img.enter{ 
+    background-color:#fff; 
+    font-size: 20px;
+    color:#4AB1F9;  
+    height: 100px;
+    width: 450px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;   
+}  
+
+
+input.smallnameRed{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;  
+    height: 80px;
+    width: 470px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #FC0712;  
+}   
+
+
+input.name{ 
+    background-color:#153145; 
+    font-size: 50px;
+    color:#000;   
+    height: 140px;
+    width: 430px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+input.bigRed{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;  
+    height: 80px;
+    width: 950px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #FC0712;  
+} 
+
+
+input.big{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;   
+    height: 80px;
+    width: 950px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;
+} 
+
+
+
+input.bigForm{ 
+    background-color:#153145; 
+    font-size: 25px;
+    color:#000;  
+    height: 40px;
+    width: 310px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #4AB1F9;  
+} 
+
+input.bigFormRed{ 
+    background-color:#153145; 
+    font-size: 25px;
+    color:#000;  
+    height: 40px;
+    width: 310px;
+    outline: none;     
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border: 5px solid #FC0712;  
+} 
+
+
+button.small{ 
+    background-color:#fff; 
+    font-size: 40px;
+    color:#4AB1F9;  
+    height: 120px;
+    width: 350px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+button.smallForm{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#4AB1F9;  
+    height: 100px;
+    width: 350px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+
+button.smallFormBT{ 
+    background-color:#fff; 
+    font-size: 40px;
+    color:#4AB1F9;  
+    height: 80px;
+    width: 250px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+}   
+
+textarea.comments{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;  
+    height: 300px;
+    width: 950px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+} 
+
+textarea.commentsRed{ 
+    background-color:#fff; 
+    font-size: 50px;
+    color:#000;  
+    height: 120px;
+    width: 950px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+} 
+
+table.background{
+   /* background-image:url(../img/background.png); 
+    background-repeat:no-repeat;  */
+    align:center;
+    background-position:center;
+    width:800px;
+    height:1250px;
+    
+}
+
+table.backgroundRG{
+    background:url(img/carteiraBusinessBack.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    width:730px;
+    
+}
+
+table.backgroundqr{
+    width:330px;
+    height:570px;
+    position: absolute; 
+}
+
+
+td.video{
+   text-align: center;
+}
+
+
+p{
+	font-size:15px;
+	font-weight:300;
+	font-family:verdana, solid;
+	text-align:center;
+	color:#000;
+	
+}
+
+
+#emailSent {
+    position: absolute;
+    z-index: 999; 
+    bottom: 40%;    
+    margin-top: -86.5px;
+    padding-left:  10px;
+    padding-right: 10px;
+    border-radius: 5px;  
+    border-radius: 5px;  
+    border-radius: 5px; 
+    border-radius: 5px; 
+    border: 5px solid #4AB1F9; 
+    display: none;
+    background-color: #153145;
+    height: 80px;
+    width:  290px;
+    font-size: 20px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif, solid;
+    font-weight:400; 
+}
+
+#notification {
+    position: absolute;
+    z-index: 1000; 
+    bottom: 40%;    
+    margin-top: -86.5px;
+    padding-left:  10px;
+    padding-right: 10px;
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 10px solid #4AB1F9; 
+    display: none;
+    background-color: #fff;
+/*  background-color: #153145; */
+    height: 120px;
+    width:  910px;
+    font-size: 35px;
+    color:#4AB1F9;
+    font-family: Arial, Helvetica, sans-serif, solid;
+    font-weight:400; 
+}
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    background-color:#fff; 
+    align:center;
+    font-size: 40px;
+    color:#4AB1F9;  
+    height: 40px;
+    width: 150px;
+    outline: none;     
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border-radius: 15px;  
+    border: 5px solid #4AB1F9;  
+
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+
+area {
+  outline: 0;
+} 
+

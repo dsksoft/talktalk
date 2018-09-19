@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="author"      content="Marco Ferrera">
+<meta name="description" content="Official Home Page Business Card">
+<meta name="keywords"    content="business">
+<script charset="utf-8"  src="cordova.js"></script>
+<script charset="utf-8"  src="js/index.js" ></script>
+<link   rel="stylesheet" type="text/css" href="css/index.css">
+<title>Business Card Mobile APP</title>
+</head>
+
+<table width="960" align="center">
+
+
+<tr><td align="center" bgcolor="#37acff"  height="140" colspan="2">
+<font face="helvetica,arial" size="10" color="#ffffff">My Clients DataBase ADD, LIST Screen</font>
+
+</td></tr>
+</table>
+
+<table class="background" align="center">
+
+<tr><td align="center">
+   
+<form  name="smartcardForm" method="post"> 
+<table width="960" align="center">
+
+	<tr><td valign="top"><input type="search" class="smallnameRed" name="first" placeholder="FIRST"></td><td><input type="search" class="smallnameRed" name="last" placeholder="LAST"></td></tr>
+
+	<tr><td valign="top"><input type="search" class="smallnameRed" name="phone" 
+			placeholder="MOBILE "></td>
+
+	    <td valign="top"><input type="search"  class="smallname" name="regular" 
+			placeholder="REGULAR "></td></tr>
+
+	<tr><td valign="top" colspan="2"><input type="search" class="bigRed" name="email" 
+			placeholder="EMAIL ADDRESS"></td></tr>
+   
+	<tr><td valign="top" colspan="2"><input type="search" class="big" name="company" 
+			placeholder="COMPANY NAME"></td></tr>
+
+	<tr><td valign="top" colspan="2"><input type="search" class="big" name="street" 
+			placeholder="STREET ADDRESS"></td></tr>
+
+	<tr><td valign="top"><input type="search" class="smallname" name="city" 
+			placeholder="CITY"></td>
+        <td valign="top"><input type="search" class="smallname" name="state" 
+			placeholder="STATE"></td></tr>   
+
+	<tr><td valign="top"><input type="search" class="smallname" name="zip" 
+			placeholder="ZIP"></td>
+        <td valign="top"><input type="search" class="smallname" name="country" 
+			placeholder="COUNTRY"></td></tr>
+
+	<tr><td valign="top" colspan="2"><input type="search" class="big" name="web" 
+			placeholder="WEB ADDRESS"></td></tr>
+
+    <tr><td  colspan="2"><textarea name="comments"
+	   placeholder="WRITE A NOTE" maxlength="200" class="commentsRed"></textarea></td></tr>
+    <tr><td width="800" height="30" colspan="2"></td></tr> 
+	<tr><td valign="top" align="center"><button type="button" class="smallForm" onclick="javascript:smartCardEmail();">
+			E N T E R</button></td> 
+	    <td valign="top"><button type="reset" class="smallForm">R E S E T</button>
+	</td></tr>
+	<tr><td colspan="2" height="20"></td></tr>
+    <tr><td align="center" colspan="2"><button type="button" class="smallForm" onclick="javascript:smartCardList();">L I S T</button> 
+
+</td></tr>
+</table>
+</form>
+</td></tr>
+<tr><td width="700" height="0"></td></tr>
+<tr><td align="center" >
+<img width="800" height="130" src="img/homepage.png" usemap="#topMenu">
+<map name="topMenu">
+<area shape="rect" coords="20,0,150,150"  href="index.html"> 
+<area shape="rect" coords="170,0,300,170" href="share.html">  
+<area shape="rect" coords="330,0,470,150" href="sms:?body=Marco%20Ferrera%0D%0Adsksoft%2Ecom%0D%0Amarco@dsksoft%2Ecom%0D%0AContact File Below%0D%0Amarcocontact.ecobusinesscard.org"> 
+<area shape="rect" coords="490,0,600,150" href="tel:">
+<area shape="rect" coords="620,0,800,150" href="javascript:navigator.app.exitApp();">
+</map></div>
+</td></tr>
+<!--<tr><td align="center">
+<form name="shareform">
+<button type="button" class="small" onClick="javascript:signup();">signup a friend</button>
+</form>
+</td></tr> -->
+</table>
+<div id="notification"></div>
+</body>
+</html>
+
