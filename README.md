@@ -1,0 +1,2 @@
+# talktalk
+um projeto cordova
